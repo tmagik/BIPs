@@ -46,4 +46,4 @@ This reduces the fee pressure on users and companies creating on-chain transacti
 ==Implementation==
 
 https://github.com/btc1/bitcoin branch segwit2x
-
+https://bitbucket.org/tmagik/catoshi/
